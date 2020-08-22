@@ -2,3 +2,4 @@ install/
 .phpintel
 uploads/cache/*
 uploads/avatars/test.png
+.DS_Store
